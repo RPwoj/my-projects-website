@@ -30,7 +30,7 @@ function ProjectListEl(props) {
                     </div>
                 </div>
                 <div className="project-urls-holder">
-                    <p className="urls-holder-name">project</p>
+                    <p className="urls-holder-name">Project</p>
                     <div className="buttons-holder">
                         <ButtonLink url={props.projectUrl} linkType='project' text="See project" />
                     </div>
